@@ -1,8 +1,8 @@
-## web scraping
+# web scraping
 
-##Scraping on sale  lego from Walmart
+# Scraping on sale  lego from Walmart
 
 
-##Scraping lower price cell phone from Bestbuy
+# Scraping lower price cell phone from Bestbuy
 
 
